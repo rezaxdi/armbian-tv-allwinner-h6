@@ -1,5 +1,7 @@
 # Armbian for Tanix TX6 tv box
 
+### IMPORTANT NOTE : I'm currently using Debian Bookworm with mainline kernel on this TV Box, here is how to install it : https://gist.github.com/rezaxdi/562a4a2b3ca5a57ae8d11a7bf1a10521
+
 This is a fork of armbian with added config files and patches for Tanix TX6 tv box (Allwinner H6). WiFi & BT support is not added.
 
 ## Compile
